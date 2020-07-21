@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table>
-<tr>
 <td valign="top" width="60%">
 
 ### Recent releases
@@ -39,7 +38,5 @@ Here are some ideas to get you started:
 * ...
 <!-- recent_releases ends -->
 </td>
-
-</tr>
 </table>
 
