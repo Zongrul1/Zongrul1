@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table>
-<td valign="top" width="50%">
+<td valign="top" width="47%">
 
 ### Recent Projects
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019-11
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018-05
 </td>
-<td valign="top" width="32%">
+<td valign="top" width="30%">
 
 ### My Study
 * [LeetCode Basic](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Basic)
