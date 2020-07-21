@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table>
-<td valign="top" font-size = "155px">
+<td valign="top">
 
 ### Recent releases
 <!-- recent_releases starts -->
