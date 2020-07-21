@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<table><tr><td valign="top">
-
 ### Recent releases
 <!-- recent_releases starts -->
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020
@@ -24,6 +22,6 @@ Here are some ideas to get you started:
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018
 
 <!-- recent_releases ends -->
-</td><td valign="top">
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
+
+
