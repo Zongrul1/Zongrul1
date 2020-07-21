@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<table width= "600px">
-<tr><td valign="top">
+<table>
+<tr><td valign="top" width="50%">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018-05
 <!-- recent_releases ends -->
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 ### Skills
 <!-- recent_releases starts -->
