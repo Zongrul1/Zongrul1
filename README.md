@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="50%">
 
-### GitHUb
-
 ![](https://www.somagnews.com/wp-content/uploads/2020/04/75-e1586981465263.png)
 
 </td>
