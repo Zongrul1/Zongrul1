@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<table border="1">
+<tr>
 ### Recent releases
 <!-- recent_releases starts -->
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020
@@ -20,8 +22,17 @@ Here are some ideas to get you started:
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018
-
 <!-- recent_releases ends -->
-
-
+</tr>
+<tr>
+### Recent releases
+<!-- recent_releases starts -->
+* [QA-website](https://github.com/Zongrul1/QA-website) - 2020
+* [ClimateMisinformationDetection](https://github.com/Zongrul1/ClimateMisinformationDetection) - 2020
+* [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020
+* [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019
+* [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018
+<!-- recent_releases ends -->
+</tr>
+</table>
 
