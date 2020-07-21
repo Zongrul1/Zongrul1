@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td valign="top" width="80%">
+<td valign="top" width="60%">
 ### Recent releases
 <!-- recent_releases starts -->
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
