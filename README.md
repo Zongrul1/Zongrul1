@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<table border="1">
+<table>
 <tr><td valign="top">
+
 ### Recent releases
 <!-- recent_releases starts -->
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 <!-- recent_releases ends -->
 </td>
 <td valign="top">
+
 ### Recent releases
 <!-- recent_releases starts -->
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020
