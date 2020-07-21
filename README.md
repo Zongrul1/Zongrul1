@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table border="1">
-<tr>
+<tr><td valign="top">
 ### Recent releases
 <!-- recent_releases starts -->
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018
 <!-- recent_releases ends -->
-</tr>
-<tr>
+</td><td valign="top">
+<td valign="top">
 ### Recent releases
 <!-- recent_releases starts -->
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018
 <!-- recent_releases ends -->
+</td><td valign="top">
 </tr>
 </table>
 
