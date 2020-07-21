@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ### Recent Projects
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019-11
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018-05
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 
 ### My Study
 * [LeetCode Basic](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Basic)
@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 </td>
 </tr>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ### Coming Soon
-😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
+
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 
 ### More About me
 * [My HomePage](https://zongrul1.github.io/)
