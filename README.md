@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<table>
+<table width="95%">
 <tr><td valign="top">
 
 ### Recent releases
