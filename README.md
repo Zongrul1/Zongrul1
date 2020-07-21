@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table>
-<td valign="top" width="47%">
+<td valign="top" width="40%">
 
 ### Recent Projects
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * [面经](https://github.com/Zongrul1/Study-Resource/tree/master/%E9%9D%A2%E7%BB%8F)
 * [More](https://github.com/Zongrul1/Study-Resource)
 </td>
-<td valign="top" width="23%">
+<td valign="top" width="30%">
 
 ### More About me
 * [My HomePage](https://zongrul1.github.io/)
