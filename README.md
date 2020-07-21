@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="60%">
 
-### Covid 19
-https://gist.github.com/Zongrul1/1bab882ed0268249fc088e7a014dd5f9
-</td>
-<td valign="top" width="40%">
+### Coming Soon
+
+
 
 ### More About me
 * [My HomePage](https://zongrul1.github.io/)
