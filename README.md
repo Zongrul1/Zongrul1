@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table>
-<td valign="top" width="44%">
+<tr>
+<td valign="top" width="60%">
 
 ### Recent Projects
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019-11
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018-05
 </td>
-<td valign="top" width="28%">
+<td valign="top" width="40%">
 
 ### My Study
 * [LeetCode Basic](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Basic)
@@ -32,11 +33,17 @@ Here are some ideas to get you started:
 * [面经](https://github.com/Zongrul1/Study-Resource/tree/master/%E9%9D%A2%E7%BB%8F)
 * [More](https://github.com/Zongrul1/Study-Resource)
 </td>
-<td valign="top" width="28%">
-
+</tr>
+<tr>
+<td valign="top" width="60%">
+### Covid 19
+<script src="https://gist.github.com/Zongrul1/1bab882ed0268249fc088e7a014dd5f9.js"></script>
+</td>
+<td valign="top" width="40%">
 ### More About me
 * [My HomePage](https://zongrul1.github.io/)
 * [My BiliBili](https://space.bilibili.com/6420290)
 </td>
+</tr>
 </table>
 
