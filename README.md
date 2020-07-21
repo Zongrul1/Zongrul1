@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 
 ### Coming Sonn
 
+
 </td>
-<td valign="top" width="60%">
+<td valign="top" width="40%">
+
 ### More About me
 * [My HomePage](https://zongrul1.github.io/)
 * [My BiliBili](https://space.bilibili.com/6420290)
