@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td valign="top" width="60%">
+
 ### Recent releases
 <!-- recent_releases starts -->
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 <!-- recent_releases ends -->
 </td>
 <td valign="top" width="50%">
+
 ### Skills
 <!-- recent_releases starts -->
 * JAVA      ■■■■
