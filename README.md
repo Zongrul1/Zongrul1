@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 ### Skills
 <!-- recent_releases starts -->
-* JAVA      ■■■■
-* SQL       ■■■
-* Git       ■■■
-* Python    ■■■
-* Docker    ■■
-* Ansible   ■■
+* JAVA      ■■■■■■■■
+* SQL       ■■■■■■
+* Git       ■■■■■■
+* Python    ■■■■■■
+* Docker    ■■■■
+* Ansible   ■■■■
 * ...
 <!-- recent_releases ends -->
 </td>
