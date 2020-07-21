@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td valign="top" width="60%">
+
 ### Covid 19
 <script src="https://gist.github.com/Zongrul1/1bab882ed0268249fc088e7a014dd5f9.js"></script>
 </td>
 <td valign="top" width="40%">
+
 ### More About me
 * [My HomePage](https://zongrul1.github.io/)
 * [My BiliBili](https://space.bilibili.com/6420290)
