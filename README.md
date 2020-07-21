@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="60%">
 
-### Coming Sonn
+### Coming Soon
 
 
 </td>
