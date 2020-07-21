@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table>
-<td valign="top" width="60%">
+<td valign="top" font-size = "155px">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -23,19 +23,6 @@ Here are some ideas to get you started:
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020-01
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019-11
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018-05
-<!-- recent_releases ends -->
-</td>
-<td valign="top" width="50%">
-
-### Skills
-<!-- recent_releases starts -->
-* JAVA      ■■■■■■■■
-* SQL       ■■■■■■
-* Git       ■■■■■■
-* Python    ■■■■■■
-* Docker    ■■■■
-* Ansible   ■■■■
-* ...
 <!-- recent_releases ends -->
 </td>
 </table>
