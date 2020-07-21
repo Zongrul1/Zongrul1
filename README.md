@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <td valign="top" width="60%">
 
 ### Covid 19
-<html>
+
 <script src="https://gist.github.com/Zongrul1/1bab882ed0268249fc088e7a014dd5f9.js"></script>
-</html>
+https://gist.github.com/Zongrul1/1bab882ed0268249fc088e7a014dd5f9
 </td>
 <td valign="top" width="40%">
 
