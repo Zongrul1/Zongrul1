@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <table>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
 ### Recent Projects
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
