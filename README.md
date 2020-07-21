@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019-11
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018-05
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="25%">
 
 ### My Study
 * [LeetCode Basic](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Basic)
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 * [面经](https://github.com/Zongrul1/Study-Resource/tree/master/%E9%9D%A2%E7%BB%8F)
 * [More](https://github.com/Zongrul1/Study-Resource)
 </td>
-<td valign="top" width="20%">
+<td valign="top" width="25%">
 
-### More Information
+### More About Me
 * [My HomePage](https://zongrul1.github.io/)
 * [My BiliBili](https://space.bilibili.com/6420290)
 </td>
