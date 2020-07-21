@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018
 <!-- recent_releases ends -->
-</td><td valign="top">
+</td>
 <td valign="top">
 ### Recent releases
 <!-- recent_releases starts -->
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019
 * [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018
 <!-- recent_releases ends -->
-</td><td valign="top">
+</td>
 </tr>
 </table>
 
