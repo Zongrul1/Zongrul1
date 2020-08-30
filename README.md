@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 
 ### Recent Projects
+* [WeatherAPP](https://github.com/Zongrul1/WeatherAPP) - 2020-08
+* [2020-U.S-President-Election-Prediction-Condition-Visulisation](https://github.com/Zongrul1/2020-U.S-President-Election-Prediction-Condition-Visulisation) - 2020-08
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
 * [ClimateMisinformationDetection](https://github.com/Zongrul1/ClimateMisinformationDetection) - 2020-05
 * [QA-website](https://github.com/Zongrul1/QA-website) - 2020-01
