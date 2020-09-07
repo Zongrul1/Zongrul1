@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 
 ### Recent Projects
-* [xinan](https://github.com/Zongrul1/xinan-V0.5) - 2020-08
+* [XiNanApp](https://github.com/Zongrul1/xinan-V0.5) - 2020-08
 * [WeatherAPP](https://github.com/Zongrul1/WeatherAPP) - 2020-08
 * [2020-U.S-President-Election-Prediction](https://github.com/Zongrul1/2020-U.S-President-Election-Prediction-Condition-Visulisation) - 2020-08
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
