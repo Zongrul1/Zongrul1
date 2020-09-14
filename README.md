@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 * [2020-U.S-President-Election-Prediction](https://github.com/Zongrul1/2020-U.S-President-Election-Prediction-Condition-Visulisation) - 2020-08
 * [COVID-19-Data-Analysis](https://github.com/Zongrul1/COVID-19-Data-Analysis) - 2020-06
 * [ClimateMisinformationDetection](https://github.com/Zongrul1/ClimateMisinformationDetection) - 2020-05
-* [QA-website](https://github.com/Zongrul1/QA-website) - 2020-01
-* [RMI-WhiteBoard](https://github.com/Zongrul1/RMI-WhiteBoard) - 2019-11
-* [greenhouse-monitoring-system](https://github.com/Zongrul1/greenhouse-monitoring-system) - 2018-05
 </td>
 <td valign="top" width="50%">
 
