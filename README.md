@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 
 ### My Study
-* [Custom View](https://github.com/Zongrul1/Study-Resource/tree/master/Custom-View)
+* [Custom View](https://github.com/Zongrul1/Custom-View)
 * [LeetCode Basic](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Basic)
 * [LeetCode Top 100](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Top%20100)
 * [剑指offer](https://github.com/Zongrul1/Study-Resource/tree/master/%E5%89%91%E6%8C%87offer)
