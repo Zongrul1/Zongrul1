@@ -5,12 +5,11 @@ Here is Zongrul1's github.
 
 ### About me:
 
-- 🔭 I’m currently studying on Unimelb.
-- 🌱 I’m currently learning Information Technology.
-- 👯 I’m looking for a job of Java Developer.
-- 🤔 I’m looking for help with seeking a job.
+- 🔭 I’m currently studying on Unimelb for Information Technology.
+- 👯 I’m looking for a job of Java Developer or Android Developer.
 - 💬 Ask me about everything.
 - 📫 How to reach me: zongruli1996@gmail.com
+- 👀 My Homepage: https://zongrul1.github.io/
 
 ### My Github Works:
 <table>
