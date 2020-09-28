@@ -12,11 +12,12 @@ Here is Zongrul1's github.
 - 💬 Ask me about everything.
 - 📫 How to reach me: zongruli1996@gmail.com
 
+### My Github Works:
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### My Jobs:
+
 ### Recent Projects
 
 * [DailyLifeApp](https://github.com/Zongrul1/DailyLifeApp) - 2020-09
