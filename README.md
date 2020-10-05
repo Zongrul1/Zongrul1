@@ -29,7 +29,7 @@ Here is Zongrul1's github.
 <td valign="top" width="50%">
 
 ### My Study
-* [Custom View](https://github.com/Zongrul1/Custom-View)
+* [MyAndroidDemo](https://github.com/Zongrul1/MyAndroidDemo)
 * [LeetCode Basic](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Basic)
 * [LeetCode Top 100](https://github.com/Zongrul1/Study-Resource/tree/master/LeetCode%20Top%20100)
 * [剑指offer](https://github.com/Zongrul1/Study-Resource/tree/master/%E5%89%91%E6%8C%87offer)
