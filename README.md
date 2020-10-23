@@ -19,7 +19,7 @@ Here is Zongrul1's github.
 
 ### Recent Projects
 
-* [DailyLifeApp](https://github.com/Zongrul1/DailyLifeApp) - 2020-09
+* [BetterApp](https://github.com/Zongrul1/BetterApp) - 2020-09
 * [XiNanApp](https://github.com/Zongrul1/xinanApp) - 2020-08
 * [WeatherAPP](https://github.com/Zongrul1/WeatherAPP) - 2020-08
 * [2020-U.S-President-Election-Prediction](https://github.com/Zongrul1/2020-U.S-President-Election-Prediction-Condition-Visulisation) - 2020-08
