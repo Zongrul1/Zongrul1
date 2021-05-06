@@ -5,15 +5,6 @@ Here is Zongrul1's github.
 
 <img src="https://github-readme-stats-wasabeef.vercel.app/api?username=Zongrul1&show_icons=true&line_height=21&show_icons=true&theme=vue" />
 
-
-### About me:
-
-- 🔭 I’m currently studying on Unimelb for Information Technology.
-- 👯 I’m looking for a job of Java Developer or Android Developer.
-- 💬 Ask me about everything.
-- 📫 How to reach me: zongruli1996@gmail.com
-- 👀 My Homepage: https://zongrul1.github.io/
-
 ### My Github Works:
 <table>
 <tr>
