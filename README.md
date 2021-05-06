@@ -3,6 +3,14 @@
 
 Here is Zongrul1's github.
 
+
+
+<p align="center">
+  <a href="https://github.com/Omooo">
+    <img src="https://github-readme-stats-wasabeef.vercel.app/api?username=Zongrul1&show_icons=true&line_height=21&show_icons=true&theme=vue" />
+  </a>
+</p>
+
 ### About me:
 
 - 🔭 I’m currently studying on Unimelb for Information Technology.
