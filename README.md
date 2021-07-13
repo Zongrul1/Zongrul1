@@ -3,8 +3,6 @@
 
 Here is Zongrul1's github.
 
-<img src="https://github-readme-stats-wasabeef.vercel.app/api?username=Zongrul1&show_icons=true&line_height=21&show_icons=true&theme=vue" />
-
 ### My Github Works:
 <table>
 <tr>
