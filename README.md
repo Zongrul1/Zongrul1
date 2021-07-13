@@ -39,9 +39,6 @@ Here is Zongrul1's github.
 </td>
 <td valign="top" width="50%">
 
-### More About me
-* [My HomePage](https://zongrul1.github.io/)
-* [My BiliBili](https://space.bilibili.com/6420290)
 </td>
 </tr>
 </table>
